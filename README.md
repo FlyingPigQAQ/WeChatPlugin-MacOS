@@ -4,5 +4,6 @@
 1. 退出微信
 2. cd 下载目录/WeChatPlugin-MacOS/Other
 3. ./Install.sh
+4. 打开微信，在左上角微信小助手打开相应功能
 
 # 如有侵权，请联系删除。
